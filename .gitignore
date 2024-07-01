@@ -1,0 +1,8 @@
+# Environment
+#
+env/
+
+# Model
+#
+#train4/
+#dataModel.h5
